@@ -17,3 +17,4 @@ You can export the html in the browser as a PDF after editing it or edit it as a
   * Print **Background Graphics**.
   * Don't print headers and footers.
   * Save as PDF.
+![Resume Design](https://dilionsmith.me/content/images/2018/05/download.png)
