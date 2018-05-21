@@ -1,5 +1,7 @@
 # ResumeDesign
 
+## [Check out the demo](https://dilionscode.github.io/HTML-Resume/)
+
 This was a design I made for a client and I thought I would share!
 
 You can export the html in the browser as a PDF after editing it or edit it as a PDF.
